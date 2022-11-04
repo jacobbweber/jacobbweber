@@ -23,9 +23,6 @@ Some technologies/concepts I’m currently focusing on and having a lot of fun w
 - DevOps/Infrastructure-As-Code
 - Rasberry PI/Robotics – I want to make a robotic fence line trimmer for livestock fences. Solar powered, lidar, gps assisted navigation. I live on a 5-acre hobby farm, so any opportunity I have to incorporate technology into my chores makes it fun.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jacobbweber&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jacobbweber&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobbweber&show_icons=true&show_icons=true&theme=radical"/>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobbweber&show_icons=true&show_icons=true&theme=radical"/>
