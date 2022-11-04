@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ...Packer/Terraform/Ansible
 - 🔭 I’m currently working on ...Packer/Terraform/Ansible on Hyper-V and VMware Workstation Pro 16
 
-I am an IT Generalist and enjoy working with all aspects of technology. I am a problem solver and am always eager to take on new challenges. Most of my IT background has been centered around Windows Infrastructure Systems, Cisco UCS hardware, and VMware products from design, implementation, to support. But in my spare time, I still educate myself on other aspects of IT like Development, IT/Project Management, Infrastructure-as-code. I have been really passionate about automation and monitoring lately. If I find myself doing something more than once I try to automate it. And then setup some (meaningful) monitoring around that automation.
 
 <!---
 - 👋 Hi, I’m @jacobbweber
