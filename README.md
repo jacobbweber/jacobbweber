@@ -1,7 +1,12 @@
-<!---
+- 👋 Hi, I’m @jacobbweber
+- 👀 I’m interested in ...All things
+- 🌱 I’m currently learning ...Packer/Terraform/Ansible
+- 🔭 I’m currently working on ...Packer/Terraform/Ansible on Hyper-V and VMware Workstation Pro 16
+
+<--
 - 👋 Hi, I’m @jacobbweber
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 🌱 Ansible
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
