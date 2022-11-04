@@ -28,3 +28,4 @@ Some technologies/concepts I’m currently focusing on and having a lot of fun w
 
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jacobbweber&show_icons=true&show_icons=true&theme=radical"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=jacobbweber&show_icons=true&show_icons=true&theme=radical"/>
